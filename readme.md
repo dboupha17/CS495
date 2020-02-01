@@ -3,5 +3,5 @@
 ### **Cell Phone** : (703)-577-7401
 ### **Email** : dboup001@odu.edu
 ## My name is Demitri Boupha I am currently studying at Old Dominion University. I am majoring in cybersecurity while minoring in criminal justice. I also am on the ODU club soccer team as well as an intramural team for soccer. I plan on finishing my degree by May 2021.
-### Resume: https://github.com/dboupha17/CS495/blob/master/Demitri%20Boupha's%20CV%20(2).pdf
+### Resume: https://drive.google.com/file/d/1AAcomvOqvgLDRAgbU23zFnf4eyHOveh_/view?usp=sharing
 
